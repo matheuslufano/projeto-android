@@ -1,0 +1,95 @@
+
+/*Header(cabeçario)-----------------------------------------------------------------*/
+body{
+margin: 0px;
+background-color: #E9E6C3;
+}
+header {
+    background-color: green;
+    height: px;
+    background-image: linear-gradient(177deg, #1EE000, #35AD23, #3B7A31, #2F472B, #2A3329);
+    /*parâmetro p fixar o degrader*/
+    background-attachment: local;
+    padding-bottom: 10px;
+}
+
+h1#titulo{
+    font-family: 'idroid';
+    color: white;
+    text-align: center;
+
+    margin: 0%;
+    padding-top: 5%;
+}
+
+h4#subtitulo{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1#t2{
+    margin-top: 0px;
+    font-family: 'idroid';
+}
+
+
+nav > a {
+    
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+/*main(cabeçario)-----------------------------------------------------------------*/
+main {
+    background-color: white;
+    margin: 0px 10%;
+    
+}
+h1{ font-family: 'idroid';
+    color: #35AD23;
+    padding: 5px 20px;
+    margin: 0px 5px;
+}
+h2{
+    font-family: 'idroid';
+    color: #35AD23;
+    margin: 5px 20px ;
+    background-color: #35ad2330;
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+    padding: 0px 20px 0px 20px 
+}
+img{
+    margin: 0% 30px;
+
+}
+div{
+    text-align: center;
+}
+
+iframe{
+    margin: 5%;
+    border-radius: 6px 6px;
+    box-shadow: 3px 3px 6px 0px black;
+}
+
+article{
+    
+}
+
+ul{
+    margin: 20px;
+    
+}
+/*Footer(Roda Pé)-----------------------------------------------------------------*/
+
+
+
+article {
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
